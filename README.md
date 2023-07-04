@@ -15,9 +15,10 @@
 ![账号](assets/%E8%B4%A6%E5%8F%B7.png)
 
 勾选“保持登录”，以免再次输入账号
-    ![密码](assets/%E5%AF%86%E7%A0%81.png)
+![密码](assets/%E5%AF%86%E7%A0%81.png)
 
 进入Nas界面
+
 ![系统界面](assets/%E7%B3%BB%E7%BB%9F%E7%95%8C%E9%9D%A2.png)
 
 3. 上传文件
@@ -34,6 +35,7 @@
 ![下载](assets/%E4%B8%8B%E8%BD%BD.png)
 
 可以看到浏览器正在下载
+
 ![下载详情](assets/%E4%B8%8B%E8%BD%BD%E8%AF%A6%E6%83%85.png)
 
 至此，整个流程就已经结束了。
